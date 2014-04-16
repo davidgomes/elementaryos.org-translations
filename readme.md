@@ -1,7 +1,7 @@
 elementaryos.org Translations
 =============================
 
-This repository conains all translation strings for the elemenetaryos.org website.
+This repository contains all the translation strings for the elementaryos.org website.
 
 
 ## Translation guidelines
